@@ -1,6 +1,6 @@
 # Badge3D
 
-Interactive, procedurally generated 3D badges for SwiftUI, built with SceneKit. Includes a small iOS playground for exploring materials, shapes, and spin animations.
+Interactive, procedurally generated 3D badges for SwiftUI, built with SceneKit. Includes a small iOS playground for exploring materials and shapes.
 
 ## Features
 
@@ -8,7 +8,8 @@ Interactive, procedurally generated 3D badges for SwiftUI, built with SceneKit. 
 - Hexagonal and circular shapes with beveled edges and raised rims.
 - SF Symbols rendered onto the badge face.
 - Drag to rotate, flick with momentum, and spring back to the nearest face.
-- Five introductory spin curves to compare in the demo.
+- Icon-only shape controls and metallic material swatches.
+- A smooth Settle introductory spin by default.
 - No external packages or bundled 3D models.
 
 ## Run the demo
